@@ -1,0 +1,22 @@
+C:\Users\Ryan\Source\Repos\Hold_it_app\Hold-It App\bin\Debug\Hold-It App.exe.config
+C:\Users\Ryan\Source\Repos\Hold_it_app\Hold-It App\bin\Debug\Hold-It App.exe
+C:\Users\Ryan\Source\Repos\Hold_it_app\Hold-It App\bin\Debug\Hold-It App.pdb
+C:\Users\Ryan\Source\Repos\Hold_it_app\Hold-It App\obj\Debug\Hold-It App.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Source\Repos\Hold_it_app\Hold-It App\obj\Debug\Hold_It_App.Account.resources
+C:\Users\Ryan\Source\Repos\Hold_it_app\Hold-It App\obj\Debug\Hold_It_App.Home.resources
+C:\Users\Ryan\Source\Repos\Hold_it_app\Hold-It App\obj\Debug\Hold_It_App.Login.resources
+C:\Users\Ryan\Source\Repos\Hold_it_app\Hold-It App\obj\Debug\Hold_It_App.Post.resources
+C:\Users\Ryan\Source\Repos\Hold_it_app\Hold-It App\obj\Debug\Hold_It_App.Properties.Resources.resources
+C:\Users\Ryan\Source\Repos\Hold_it_app\Hold-It App\obj\Debug\Hold_It_App.Search.resources
+C:\Users\Ryan\Source\Repos\Hold_it_app\Hold-It App\obj\Debug\Hold-It App.csproj.GenerateResource.Cache
+C:\Users\Ryan\Source\Repos\Hold_it_app\Hold-It App\obj\Debug\Hold-It App.exe
+C:\Users\Ryan\Source\Repos\Hold_it_app\Hold-It App\obj\Debug\Hold-It App.pdb
+C:\Users\Ryan\Source\Repos\Hold_it_app\Hold-It App\obj\Debug\Hold_It_App.AccountCreation.resources
+C:\Users\Ryan\Source\Repos\Hold_it_app\Hold-It App\obj\Debug\Hold_It_App.AccountHoldee.resources
+C:\Users\Ryan\Source\Repos\Hold_it_app\Hold-It App\obj\Debug\Hold_It_App.Eventd.resources
+C:\Users\Ryan\Source\Repos\Hold_it_app\Hold-It App\obj\Debug\Hold_It_App.EventHoldee.resources
+C:\Users\Ryan\Source\Repos\Hold_it_app\Hold-It App\obj\Debug\Hold_It_App.HomeHoldee.resources
+C:\Users\Ryan\Source\Repos\Hold_it_app\Hold-It App\obj\Debug\Hold_It_App.PostHoldee.resources
+C:\Users\Ryan\Source\Repos\Hold_it_app\Hold-It App\obj\Debug\Hold_It_App.SearchHoldee.resources
+C:\Users\Ryan\Source\Repos\Hold_it_app\Hold-It App\obj\Debug\Hold_It_App.SpotHoldee.resources
+C:\Users\Ryan\Source\Repos\Hold_it_app\Hold-It App\obj\Debug\Hold_It_App.Spotd.resources
